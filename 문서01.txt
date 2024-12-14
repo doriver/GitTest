@@ -4,3 +4,5 @@
 브랜치에는 변화가 없고 그냥 HEAD로만 움직이네
 
 push누르니까 브랜치명이 이렇게 잡힘 (HEAD detached from 60f4464)
+
+브랜치 생성 누르니까 원래 no branch이고 head였는데 그냥 새롭게 만든 브랜치로 덮어짐
